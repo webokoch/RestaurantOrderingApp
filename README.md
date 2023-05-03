@@ -1,4 +1,5 @@
-A scrimba solosproject. 
+## A scrimba solosproject
+
 You can order different items from the menu and place an order. 
 Afterward you need to enter a name, a fake creditcard number in the correct format and a fake CVV code to complete your order.
 
