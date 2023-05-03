@@ -1,3 +1,9 @@
+A scrimba solosproject. 
+You can order different items from the menu and place an order. 
+Afterward you need to enter a name, a fake creditcard number in the correct format and a fake CVV code to complete your order.
+
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
